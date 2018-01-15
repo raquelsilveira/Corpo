@@ -1,1 +1,1 @@
-# Corpora to the Keyphrases Extraction Task.
+# Corpora to the Keyphrases Extraction.
